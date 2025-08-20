@@ -14,7 +14,7 @@ and I am eager to transition into these fields
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Matching Network Design Progress for UltraSound Transducer             | <a href="https://github.com/DerpMatt2002/Matthew-Choi-Portfolio/tree/main/MatchingNetwork">Research Progress(2024-25)</a>|
+| Matching Network Circuit Design            | <a href="https://github.com/DerpMatt2002/Matthew-Choi-Portfolio/tree/main/MatchingNetwork">UltraSound Transducer Matching Network Research Progress(2024-25)</a>|
 | Fusion 360 CAD Design                         | <a href="https://docs.google.com/document/d/1DSI0YEZNxuQK5ndFsMRwtNJ34UItcKPIX9-GzJvVfrA/edit?tab=t.0">Combat Robotics Report</a>|
 | CNN, KNN, Feature Analysis, Neural Network    | <a href="https://github.com/DerpMatt2002/Matthew-Choi-Portfolio/tree/main/Python/Intro%20to%20ML">Python Intro to ML Assignments</a>|
 | C Cache, Proxy, and Shell                     | <a href="https://github.com/DerpMatt2002/Matthew-Choi-Portfolio/tree/main/C">Intro to Computer to Systems Assignments</a>|
